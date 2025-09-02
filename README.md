@@ -1,7 +1,7 @@
-##simpleR2drive
--*变量*
--*PASSWORD*:'登录密码'
--*MY_DRIVE_BUCKET*:'绑定R2'
+#simpleR2drive
+-**变量**
+-**PASSWORD**:`登录密码`
+-**MY_DRIVE_BUCKET**:`绑定R2`
 # Linklet Worker: 一个基于 Cloudflare 的极简短链接服务
 
 这是一个部署在 Cloudflare Workers 上的轻量级、无服务器的短链接应用。它使用 Cloudflare D1 作为数据库，并提供一个简单的管理后台。
